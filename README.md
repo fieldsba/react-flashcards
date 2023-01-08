@@ -8,4 +8,4 @@ React Flashcards is an app built using ReactJS and the Open Trivia Database API 
 After cloning the repository, simply run the command 'npm start' from the project directory! :)
 
 # App Screenshot
-/screenshot.png
+![Screenshot](screencap.png)
